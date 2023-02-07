@@ -20,4 +20,6 @@ for tc in range(1, test_case+1):
             if arr[i][j] == 3:
                 count += 1
     print(f'#{tc} {count}')
+    # for i in range(10):
+    #     print(arr[i])
 
